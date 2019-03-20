@@ -71,6 +71,9 @@ section{
 .icon-text{
   line-height: 1.7;
 }
+.card{
+  margin-bottom: 2rem;
+}
 .card img{
   width: 100%;
 height: 19rem;
@@ -143,7 +146,7 @@ height: 13rem;
   }
   .banner-heading h3{
 
-    font-size: 3rem;}
+    font-size: 2rem;}
     .round-border{
       width: 6rem;
     }
